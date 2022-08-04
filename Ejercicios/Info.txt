@@ -1,0 +1,7 @@
+﻿Distinct() obtiene todos los items unicos sin repetirse de una colecion 
+Intersect() obtiene todos los items repetidos  de dos coleciones 
+Union() obtiene todos los items unicos de  dos coleciones
+Exept() obtiene los items del primer listado que no estan en el segundo
+All() Todos cumplen la condicion dada en el lambda devuelve bolean
+Any() Si al menos uno cumple la condicion dada en el lambda devuelve bolean
+Contains() Devuelve un valor que indica si un carácter especificado aparece dentro de esta cadena. 

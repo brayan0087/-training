@@ -1,0 +1,16 @@
+C:\Users\prsolucionesti1\source\repos\Ejercicios\bin\Debug\net5.0\Ejercicios.exe
+C:\Users\prsolucionesti1\source\repos\Ejercicios\bin\Debug\net5.0\Ejercicios.deps.json
+C:\Users\prsolucionesti1\source\repos\Ejercicios\bin\Debug\net5.0\Ejercicios.runtimeconfig.json
+C:\Users\prsolucionesti1\source\repos\Ejercicios\bin\Debug\net5.0\Ejercicios.runtimeconfig.dev.json
+C:\Users\prsolucionesti1\source\repos\Ejercicios\bin\Debug\net5.0\Ejercicios.dll
+C:\Users\prsolucionesti1\source\repos\Ejercicios\bin\Debug\net5.0\ref\Ejercicios.dll
+C:\Users\prsolucionesti1\source\repos\Ejercicios\bin\Debug\net5.0\Ejercicios.pdb
+C:\Users\prsolucionesti1\source\repos\Ejercicios\obj\Debug\net5.0\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\prsolucionesti1\source\repos\Ejercicios\obj\Debug\net5.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prsolucionesti1\source\repos\Ejercicios\obj\Debug\net5.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\prsolucionesti1\source\repos\Ejercicios\obj\Debug\net5.0\Ejercicios.AssemblyInfo.cs
+C:\Users\prsolucionesti1\source\repos\Ejercicios\obj\Debug\net5.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\prsolucionesti1\source\repos\Ejercicios\obj\Debug\net5.0\Ejercicios.dll
+C:\Users\prsolucionesti1\source\repos\Ejercicios\obj\Debug\net5.0\ref\Ejercicios.dll
+C:\Users\prsolucionesti1\source\repos\Ejercicios\obj\Debug\net5.0\Ejercicios.pdb
+C:\Users\prsolucionesti1\source\repos\Ejercicios\obj\Debug\net5.0\Ejercicios.genruntimeconfig.cache
